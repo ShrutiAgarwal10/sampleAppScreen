@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RSVRApplication</string>
+    <string name="MovieTitle">Phir Hera Pheri</string>
+    <string name="imdb">IMDb</string>
+    <string name="comedy">COMEDY</string>
+    <string name="fun">Fun</string>
+    <string name="movieDescription">Hera Pheri is a series of Indian comedy films. The first film is directed by Priyadarshan and produced by A.G. Nadiadwala, the second film was directed by Neeraj Vora while third will be directed by Priyadarshan and produced by Firoz Nadiadwala</string>
+    <string name="readMore">READ MORE</string>
+    <string name="postProd">Post Production</string>
+    <string name="simMovies">SIMILAR MOVIES</string>
+</resources>
